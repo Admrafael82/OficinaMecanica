@@ -1,0 +1,30 @@
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.exe.config
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.exe
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.pdb
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.Form1.resources
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.Properties.Resources.resources
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.exe
+C:\Users\Aluno\source\repos\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.pdb
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.exe.config
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.exe
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.pdb
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.Form1.resources
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.Properties.Resources.resources
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.exe
+C:\Users\Rafael\Desktop\atividade herança oficina mecânica\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.pdb
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.Form1.resources
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.Properties.Resources.resources
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.exe
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\obj\Debug\oficinamecanica.pdb
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.exe.config
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.exe
+C:\Users\Aluno\Desktop\oficinamecanica\oficinamecanica\bin\Debug\oficinamecanica.pdb
